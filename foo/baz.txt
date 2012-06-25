@@ -1,2 +1,3 @@
 It's baz. You know, comes after foo and bar.
+Now it's updated too.
 
